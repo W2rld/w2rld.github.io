@@ -22,13 +22,36 @@ You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
 **Data Storytelling 用数据讲故事:**
 
-数据新闻十年反思与回顾 // <font color=DarkGray>2023.11 复旦大学新闻晚会</font> ![image](https://github.com/W2rld/w2rld.github.io/blob/master/images/view.png)
+数据新闻十年反思与回顾 // <font color=DarkGray>2023.11 复旦大学新闻晚会</font> [![source](images/view.png)](https://baidu.com)
 
 可视化叙事前沿进展 // <font color=DarkGray>2023.11 华东政法大学传播学院 ｜ 2023.10 南京大学新闻与传播学院 | 2023.9 上海大学美术学院</font> [🔍](https://baidu.com)
 
 用数据讲故事 // <font color=DarkGray>2023.6 南京大学艺术学院 ｜ 2021.12 字节跳动</font> 
 
+
+✳️Selected Articles
+======
+
+**Visualization Design 可视化设计:**
+
+情感可视化设计：看见感性的力量 // <font color=DarkGray>2024.1 四川大学计算机学院 ｜ 2023.8 iDVX 开放日[🔍](https://baidu.com "View source")  ｜ 2023.7 ChinaVis 2023</font>
+
 理解数据故事的设计传达：一种用户中心的视角 // <font color=DarkGray>2021.7 GAMES-Webinar</font> 
+
+
+✳️Selected Pictures
+======
+
+以下是我的作品
+
+| ![baidu](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)|![baidu](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)|![baidu](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)|
+| ----------- | ----------- | ----------- |
+| Baidu       | Baidu       | Baidu       |
+
+
+![baidu](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

@@ -22,7 +22,7 @@ Getting started
 
 **Data Storytelling 用数据讲故事:**
 
-数据新闻十年反思与回顾 // <font color=DarkGray>2023.11 复旦大学新闻晚会</font> ![source](https://github.com/W2rld/w2rld.github.io/blob/master/images/view.png)
+数据新闻十年反思与回顾 // <font color=DarkGray>2023.11 复旦大学新闻晚会</font> ![image](https://github.com/W2rld/w2rld.github.io/blob/master/images/view.png)
 
 可视化叙事前沿进展 // <font color=DarkGray>2023.11 华东政法大学传播学院 ｜ 2023.10 南京大学新闻与传播学院 | 2023.9 上海大学美术学院</font> 
 
